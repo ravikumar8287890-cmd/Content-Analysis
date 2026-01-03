@@ -1,0 +1,5 @@
+{
+  "name": "Editorial Intelligence AI",
+  "description": "An AI-powered editorial analyst that processes content data to identify high-performing themes, analyze headline styles, and provide actionable editorial recommendations.",
+  "requestFramePermissions": []
+}
